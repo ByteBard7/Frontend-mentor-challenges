@@ -1,26 +1,27 @@
 body{
+    min-height: 100vh;
+    margin: 0;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     background-color: #F4D04E;
+    gap: 20px;
 }
 
 
-.card {
+.container {
     display: flex;
     flex-direction: column;
-    max-width: 300px;
+    max-width: 38vh;
     border: 1px solid black;
     border-radius: 20px;
     box-shadow: 6px 6px 0 0;
     padding: 20px;
     background-color: white;
-    position: absolute;
-    top: 60px;
 }
 
-.card img{
+.container img{
     max-width: 100%;
     border-radius: 20px
 }
@@ -69,5 +70,6 @@ p{
 .attribution{
     position: absolute;
     text-align: center;
-    bottom: 20px;
+    bottom: 0;
+    
 }
