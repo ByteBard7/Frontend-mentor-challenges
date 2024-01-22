@@ -2,7 +2,7 @@
 
 This repository is dedicated to storing the Frontend Mentor challenges that I have successfully completed. Frontend Mentor provides a platform for honing frontend development skills by tackling real-world projects with varying levels of complexity.
 
-## Challenges
+## 💪🏻 Challenges
 
 | #  | Challenge Name       | LivePreview                                           | Code                                      |
 |---|-----------------------|---------------------------------------------------------|-----------------------------------------------------|
