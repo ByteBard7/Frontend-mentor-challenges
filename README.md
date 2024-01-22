@@ -6,6 +6,6 @@ This repository is dedicated to storing the Frontend Mentor challenges that I ha
 
 | #  | Challenge Name       | LivePreview                                           | Code                                      |
 |---|-----------------------|---------------------------------------------------------|-----------------------------------------------------|
-| 1 | Blog Preview Card         | [LivePreview](https://coolgorithm.github.io/Frontend-mentor-challenges/blog-preview-card)                      | [Code](https://github.com/Coolgorithm/Frontend-mentor-challenges/tree/main/blog-preview-card)   |
-| 2 | QR Code Component          | [LivePreview](https://coolgorithm.github.io/Frontend-mentor-challenges/qr-code-component)                      | [Code](https://github.com/Coolgorithm/Frontend-mentor-challenges/tree/main/qr-code-component)   |
-| 3 | Recipe Page         | [LivePreview](https://coolgorithm.github.io/Frontend-mentor-challenges/recipe-page)                      | [Code](https://github.com/Coolgorithm/Frontend-mentor-challenges/tree/main/recipe-page)   |
+| 1 | Blog Preview Card         | [Live](https://coolgorithm.github.io/Frontend-mentor-challenges/blog-preview-card)                      | [Code](https://github.com/Coolgorithm/Frontend-mentor-challenges/tree/main/blog-preview-card)   |
+| 2 | QR Code Component          | [Live](https://coolgorithm.github.io/Frontend-mentor-challenges/qr-code-component)                      | [Code](https://github.com/Coolgorithm/Frontend-mentor-challenges/tree/main/qr-code-component)   |
+| 3 | Recipe Page         | [Live](https://coolgorithm.github.io/Frontend-mentor-challenges/recipe-page)                      | [Code](https://github.com/Coolgorithm/Frontend-mentor-challenges/tree/main/recipe-page)   |
