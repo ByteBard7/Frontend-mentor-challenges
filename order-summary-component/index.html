@@ -13,31 +13,40 @@
     />
 
     <title>Frontend Mentor | Order summary card</title>
+    <link rel="stylesheet" href="styles.css" />
 
-    <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
-    <style>
-      .attribution {
-        font-size: 11px;
-        text-align: center;
-      }
-      .attribution a {
-        color: hsl(228, 45%, 44%);
-      }
-    </style>
+    <link
+      rel="stylesheet"
+      href="https://fonts.google.com/specimen/Red+Hat+Display"
+    />
   </head>
   <body>
     <main class="container">
       <img src="images/illustration-hero.svg" alt="illustration-hero" />
-      <h1>Order Summary</h1>
+      <div class="text">
+        <h1>Order Summary</h1>
 
-      <p>
-        You can now listen to millions of songs, audiobooks, and podcasts on any
-        device anywhere you like!
-      </p>
-      <div class="plan">Annual Plan $59.99/year Change</div>
-
-      <button>Proceed to Payment</button>
-      <button>Cancel Order</button>
+        <p>
+          You can now listen to millions of songs, audiobooks, and podcasts on
+          any device anywhere you like!
+        </p>
+      </div>
+      <div class="plan">
+        <div>
+          <img src="images/icon-music.svg" alt="" />
+        </div>
+        <div class="text-container">
+          <h2>Annual Plan</h2>
+          <p>$59.99/year</p>
+        </div>
+        <div>
+          <a href="">change</a>
+        </div>
+      </div>
+      <div class="payment">
+        <button class="proceed">Proceed to Payment</button>
+        <button class="cancel">Cancel Order</button>
+      </div>
     </main>
   </body>
 </html>
