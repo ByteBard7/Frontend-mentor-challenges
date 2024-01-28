@@ -151,7 +151,6 @@
     }
   
     .plan {
-      max-width: 90%;
       display: flex;
       align-items: center;
       justify-content: center;
@@ -200,7 +199,6 @@
     }
   
     .proceed {
-      max-width: 90%;
       background-color: hsl(245, 75%, 52%);
       color: white;
       padding: 15px 100px;
