@@ -2,7 +2,15 @@
 
 This repository is dedicated to storing the Frontend Mentor challenges that I have successfully completed. Frontend Mentor provides a platform for honing frontend development skills by tackling real-world projects with varying levels of complexity.
 
+
+## 🧑🏻‍💻 Languages Used
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css"/>
+</p>
+
+
 ## 💪🏻 Challenges
+<center>
 
 | #  | Challenge Name       | LivePreview                                           | Repository                                     |
 |---|-----------------------|---------------------------------------------------------|-----------------------------------------------------|
@@ -11,3 +19,6 @@ This repository is dedicated to storing the Frontend Mentor challenges that I ha
 | 3 | Recipe Page         | [Demo](https://coolgorithm.github.io/Frontend-mentor-challenges/recipe-page)                      | [Code](https://github.com/Coolgorithm/Frontend-mentor-challenges/tree/main/recipe-page)   |
 | 4 | Social Links Profile         | [Demo](https://coolgorithm.github.io/Frontend-mentor-challenges/social-links-profile)                   | [Code](https://github.com/Coolgorithm/Frontend-mentor-challenges/tree/main/social-links-profile)   |
 | 5 | Order Summary Component        | [Demo](https://coolgorithm.github.io/Frontend-mentor-challenges/order-summary-component)                   | [Code](https://github.com/Coolgorithm/Frontend-mentor-challenges/tree/main/order-summary-component)   |
+
+
+</center>
