@@ -8,6 +8,7 @@ This repository is dedicated to storing the Frontend Mentor challenges that I ha
 </p>
 
 ## 💪🏻 Challenges
+<div max-width=100%>
 <center>
 
 | #  | Challenge Name       | LivePreview                                           | Repository                                     |
@@ -20,3 +21,4 @@ This repository is dedicated to storing the Frontend Mentor challenges that I ha
 
 
 </center>
+</div>
