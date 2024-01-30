@@ -10,7 +10,7 @@ This repository is dedicated to storing the Frontend Mentor challenges that I ha
 ## 💪🏻 Challenges
 <center>
 
-| #  | Challenge Name       | LivePreview                                           | Repository                                     |
+| #  | Challenge Name       | Live Preview                                           | Repository                                     |
 |---|-----------------------|---------------------------------------------------------|-----------------------------------------------------|
 | 1 | Blog Preview Card         | [Demo](https://coolgorithm.github.io/Frontend-mentor-challenges/blog-preview-card)                      | [Code](https://github.com/Coolgorithm/Frontend-mentor-challenges/tree/main/blog-preview-card)   |
 | 2 | QR Code Component          | [Demo](https://coolgorithm.github.io/Frontend-mentor-challenges/qr-code-component)                      | [Code](https://github.com/Coolgorithm/Frontend-mentor-challenges/tree/main/qr-code-component)   |
