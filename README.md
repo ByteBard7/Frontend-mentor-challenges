@@ -16,10 +16,8 @@ This repository is dedicated to storing the Frontend Mentor challenges that I ha
 | 2 | QR Code Component          | [Demo](https://bytebard7.github.io/Frontend-mentor-challenges/qr-code-component)                      | [Code](https://github.com/bytebard7/Frontend-mentor-challenges/tree/main/qr-code-component)   |
 | 3 | Recipe Page         | [Demo](https://bytebard7.github.io/Frontend-mentor-challenges/recipe-page)                      | [Code](https://github.com/Coolgorithm/Frontend-mentor-challenges/tree/main/recipe-page)   |
 | 4 | Social Links Profile         | [Demo](https://bytebard7.github.io/Frontend-mentor-challenges/social-links-profile)                   | [Code](https://github.com/bytebard7/Frontend-mentor-challenges/tree/main/social-links-profile)   |
-| 5 | Order Summary Component        | [Demo](https://bytebard7.github.io/Frontend-mentor-challenges/order-summary-component)                   | [Code](https://github.com/bytebard7/Frontend-mentor-challenges/tree/main/order-summary-component)   
-|
-| 6 | NFT Preview Card Component        | [Demo](https://bytebard7.github.io/Frontend-mentor-challenges/nft-preview-card-component-main/)                   | [Code](https://github.com/bytebard7/Frontend-mentor-challenges/tree/main/nft-preview-card-component-main)   
-|
+| 5 | Order Summary Component        | [Demo](https://bytebard7.github.io/Frontend-mentor-challenges/order-summary-component)                   | [Code](https://github.com/bytebard7/Frontend-mentor-challenges/tree/main/order-summary-component)   |
+| 6 | NFT Preview Card Component        | [Demo](https://bytebard7.github.io/Frontend-mentor-challenges/nft-preview-card-component-main/)                   | [Code](https://github.com/bytebard7/Frontend-mentor-challenges/tree/main/nft-preview-card-component-main)   |
 
 
 </center>
